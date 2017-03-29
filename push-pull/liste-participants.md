@@ -4,4 +4,5 @@
 
 ### Par ordre alphabetique
 
-- COLINA Jo
+- Cong Cuong PHAM
+- Nu Huyen Trang PHAM
